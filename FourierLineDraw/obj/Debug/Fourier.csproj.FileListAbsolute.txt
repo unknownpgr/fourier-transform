@@ -1,0 +1,10 @@
+c:\users\kjh3864\documents\visual studio 2017\Projects\Fourier\bin\Debug\Fourier.exe
+c:\users\kjh3864\documents\visual studio 2017\Projects\Fourier\bin\Debug\Fourier.pdb
+c:\users\kjh3864\documents\visual studio 2017\Projects\Fourier\obj\Debug\Fourier.Properties.Resources.resources
+c:\users\kjh3864\documents\visual studio 2017\Projects\Fourier\obj\Debug\Fourier.csproj.GenerateResource.Cache
+c:\users\kjh3864\documents\visual studio 2017\Projects\Fourier\obj\Debug\Fourier.exe
+c:\users\kjh3864\documents\visual studio 2017\Projects\Fourier\obj\Debug\Fourier.pdb
+C:\Users\kjh3864\documents\visual studio 2017\Projects\Fourier\obj\Debug\Fourier.csprojResolveAssemblyReference.cache
+C:\Users\kjh3864\documents\visual studio 2017\Projects\Fourier\bin\Debug\FourierTransform.dll
+C:\Users\kjh3864\documents\visual studio 2017\Projects\Fourier\bin\Debug\FourierTransform.pdb
+C:\Users\kjh3864\documents\visual studio 2017\Projects\Fourier\obj\Debug\FourierTest.Form1.resources

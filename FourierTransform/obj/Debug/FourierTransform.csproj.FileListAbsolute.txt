@@ -1,0 +1,5 @@
+c:\users\kjh3864\documents\visual studio 2017\Projects\FourierTransform\bin\Debug\FourierTransform.dll
+c:\users\kjh3864\documents\visual studio 2017\Projects\FourierTransform\bin\Debug\FourierTransform.pdb
+c:\users\kjh3864\documents\visual studio 2017\Projects\FourierTransform\obj\Debug\FourierTransform.csprojResolveAssemblyReference.cache
+c:\users\kjh3864\documents\visual studio 2017\Projects\FourierTransform\obj\Debug\FourierTransform.dll
+c:\users\kjh3864\documents\visual studio 2017\Projects\FourierTransform\obj\Debug\FourierTransform.pdb
