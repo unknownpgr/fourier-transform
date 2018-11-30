@@ -7,8 +7,9 @@ C# library for discrete fourier transform
 
 ## fourier lien draw
 ![fourier line draw](/docs/img0.png)
-you can draw curve on the left box and the transfrom result will be presented on the right box.
-parametic function will be presendted at 'function' box.
+- you can draw curve on the left box and the transfrom result will be presented on the right box.
+- parametic function will be presendted at 'function' box.
+- Exe file : /FourierLineDraw/bin/Debug/Fourier.exe : [/FourierLineDraw/bin/Debug/Fourier.exe]
 
 ### Controls
 - Set image : draw image on the left box for tracing.
