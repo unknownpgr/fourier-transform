@@ -6,7 +6,7 @@ C# library for discrete fourier transform
 - FourierLineDraw : Convert curve to parametric equation using fourier transfrom
 
 ## fourier lien draw
-![fourier line draw](https://unknownpgr.github.io/fourier_transform/docs/img0.png)
+![fourier line draw](/docs/img0.png)
 you can draw curve on the left box and the transfrom result will be presented on the right box.
 parametic function will be presendted at 'function' box.
 
